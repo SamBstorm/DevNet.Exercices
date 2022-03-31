@@ -12,6 +12,7 @@ namespace Exercice01
             string prenom = Console.ReadLine();
             Console.Clear();
             Console.WriteLine($"Bienvenue {nom} {prenom}!");
+            Console.WriteLine($"Bienvenue " + nom + " " + prenom + "!");
         }
     }
 }
