@@ -43,6 +43,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice-Collections-03", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice-Structures-Bonus01", "Exercice-Structures-Bonus01\Exercice-Structures-Bonus01.csproj", "{044DF0A9-E242-47E6-98BD-A255C3F32056}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice-Methode-Bonus-01", "Exercice-Methode-Bonus-01\Exercice-Methode-Bonus-01.csproj", "{C97647D6-89B5-4198-BA84-FAF944638838}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{044DF0A9-E242-47E6-98BD-A255C3F32056}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{044DF0A9-E242-47E6-98BD-A255C3F32056}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{044DF0A9-E242-47E6-98BD-A255C3F32056}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C97647D6-89B5-4198-BA84-FAF944638838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C97647D6-89B5-4198-BA84-FAF944638838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C97647D6-89B5-4198-BA84-FAF944638838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C97647D6-89B5-4198-BA84-FAF944638838}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
