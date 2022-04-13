@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice-Structures-Bonus01
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice-Methode-Bonus-01", "Exercice-Methode-Bonus-01\Exercice-Methode-Bonus-01.csproj", "{C97647D6-89B5-4198-BA84-FAF944638838}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice-Methode-02", "Exercice-Methode-02\Exercice-Methode-02.csproj", "{88FB84F5-C9FD-4623-AB54-A9517A340445}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{C97647D6-89B5-4198-BA84-FAF944638838}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C97647D6-89B5-4198-BA84-FAF944638838}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C97647D6-89B5-4198-BA84-FAF944638838}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88FB84F5-C9FD-4623-AB54-A9517A340445}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88FB84F5-C9FD-4623-AB54-A9517A340445}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88FB84F5-C9FD-4623-AB54-A9517A340445}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88FB84F5-C9FD-4623-AB54-A9517A340445}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
